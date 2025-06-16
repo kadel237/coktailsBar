@@ -1,0 +1,21 @@
+.flex {
+  display: flex;
+}
+.flex-row {
+  flex-direction: row;
+}
+.flex-col {
+  flex-direction: column;
+}
+.flex-auto {
+  flex: 1 1 auto;
+}
+.justify-content-center {
+  justify-content: center;
+}
+.gap-12 {
+  gap: 12;
+}
+.gap-16 {
+  gap: 16;
+}
